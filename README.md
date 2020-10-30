@@ -11,7 +11,7 @@ See below:
 
 A new wireframe was submitted o enhance user experience for **desktop** and **mobile**.
 
-![Mobile and desktop wireframe](wireframes/Marou%20-%20Charity%20Wireframe%20-%20Desktop%20+%20Mobile.png)
+![Mobile and desktop wireframe](wireframes/Charity%20Wireframe@1.8181818181818181x.png)
 
 ### Static Homepage:
 Following the second wireframe, a first prototype of the homepage has been developped as mobile-first web-app.
